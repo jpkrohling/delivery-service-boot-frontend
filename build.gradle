@@ -33,7 +33,7 @@ dependencies {
     compile('org.springframework.cloud:spring-cloud-starter-zuul')
     compile('org.springframework.boot:spring-boot-starter-web')
     compile("io.opentracing.contrib:opentracing-spring-cloud-starter:0.1.6")
-    compile("com.uber.jaeger:jaeger-core:0.24.1-SNAPSHOT")
+    compile("com.uber.jaeger:jaeger-core:0.25.0")
     testCompile("junit:junit")
 }
 
