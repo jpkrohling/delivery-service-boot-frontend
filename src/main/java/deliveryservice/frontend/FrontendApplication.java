@@ -1,4 +1,4 @@
-package eu.javaland.tracing.frontend;
+package deliveryservice.frontend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
